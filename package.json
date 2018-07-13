@@ -1,0 +1,7 @@
+{
+  "name": "Juvet Site",
+  "private": true,
+  "devDependencies": {
+    "tailwindcss": "^0.6.3"
+  }
+}
